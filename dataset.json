@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Washington. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Washington, US",
-  "export_job_id": "8acf9e73-dc60-4146-9e9a-615e3bc5c234",
+  "export_job_id": "5eac0775-0806-4315-b04e-d876c1c75284",
   "github_org": "Beamstation-Datasets",
   "id_short": 705739,
   "location_name": "Washington",
   "location_type": "state",
   "repo_name": "all-restaurants-in-washington-us-sample-705739",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/705739/beamstation_705739_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_pct": 6.92,
+  "sample_pct": 7.13,
   "sample_records": 1000,
-  "sample_sha256": "eb9ddef87dbfcde77fe52ec2773f1bf0cf33873a41f339ecc1a59a86d7ae4877",
-  "sample_size_bytes": 3073960,
-  "total_records": 14449,
-  "updated_at": "2026-04-09T15:01:49.712369+00:00"
+  "sample_sha256": "8d98b9b5b12434c274a6989fa25935408e083665d918dcbd14c3092acbb7ee71",
+  "sample_size_bytes": 2711416,
+  "total_records": 14017,
+  "updated_at": "2026-04-16T17:05:43.754341+00:00"
 }
