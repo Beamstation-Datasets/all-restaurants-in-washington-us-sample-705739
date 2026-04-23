@@ -9,9 +9,9 @@
 | Dataset ID | `705739` |
 | Location | Washington |
 | Category | Restaurants |
-| Full dataset size | 14,017 records |
-| Free sample size | 1,000 records (7.13%) |
-| Last export | 2026-04-16T17:05:43.754341+00:00 |
+| Full dataset size | 10,250 records |
+| Free sample size | 1,000 records (9.76%) |
+| Last export | 2026-04-23T14:13:16.412239+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-washington-us-sample-705739/releases/download/sample-latest/beamstation_705739_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
